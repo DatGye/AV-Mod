@@ -3,4 +3,5 @@ Audio / Video Mod allows the player to explore video broadcasting tools and equi
 
 # Credits
 Lead Programmer - DatGye (Wyatt Phillips)
+
 Entity Modeler  - Endless (Gregory Allen)
