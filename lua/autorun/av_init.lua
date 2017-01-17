@@ -1,8 +1,8 @@
 --[[
-AV Mod (Ver. 1.0)
+AV Mod (Ver. 0.0.0)
 Author: DatGye (Wyatt Phillips)
 
-Copyright 2016 Rogavox Development
+Copyright 2017 Rogavox Development
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
