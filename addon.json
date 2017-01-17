@@ -1,5 +1,11 @@
 {
 	"title"		:	"AV Mod",
 	"type"		:	"tool",
-	"tags"		:	[ "movie", "build" ],
+	"tags"		:	[ "movie", "build", ],
+	"ignore"	:
+	[
+		"LICENSE",
+		"README.md",
+		".git*"
+	]
 }
